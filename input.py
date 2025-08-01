@@ -1,0 +1,5 @@
+a=input()
+b=int(input("enter b"))
+c=int(input("enter c"))
+print("Hello ,"+a,end="!")
+print(b,c,sep="and",end="!")
